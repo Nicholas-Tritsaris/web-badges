@@ -1,0 +1,4 @@
+127.0.0.1 - - [19/Dec/2025 02:18:51] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 02:18:51] "GET /badges.html HTTP/1.1" 404 -
+127.0.0.1 - - [19/Dec/2025 02:19:22] code 404, message File not found
+127.0.0.1 - - [19/Dec/2025 02:19:22] "GET /badges.html HTTP/1.1" 404 -
